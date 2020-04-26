@@ -1,0 +1,3 @@
+# Memory Training
+
+Memory training app for making associations, like picture to name (for instance faces, landscapes, maps, ...), word translations, ...
